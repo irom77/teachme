@@ -20,8 +20,8 @@ echo "------------"
 
 # the command's usage examples
 # example 1
-echo "test"
-echo description here
+echo "pwd"
+echo "If you type the above input into a terminal, the computer will print out the directory the user is currently in, such as /Users/Myusername/Desktop."
 
 # example 2
 echo "test something"
